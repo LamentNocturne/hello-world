@@ -1,2 +1,2 @@
 # hello-world
-My name is Triston Tan Pin Hao
+Hello, my name is Triston Tan Pin Hao
