@@ -1,2 +1,2 @@
 # hello-world
-School computing projects
+My name is Triston Tan Pin Hao
